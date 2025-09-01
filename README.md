@@ -1,5 +1,7 @@
 # SkillSync ⚡
 
+### This project was made for experimental purposes testing the capabilities of Warp.dev ###
+
 **Personalized Learning Path Generator**
 
 SkillSync is a full-stack AI-powered application that generates personalized learning roadmaps based on your skills and goals. Built with modern web technologies and AI integration for a polished user experience.
